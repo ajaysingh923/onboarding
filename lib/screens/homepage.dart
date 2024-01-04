@@ -44,7 +44,7 @@ class _HomepageState extends State<Homepage> {
   AppBar appBar() {
     return AppBar(
       title: const Text('Catalog App',
-      style: TextStyle(color: Colors.black),),
+      style: TextStyle(color: Colors.green),),
     backgroundColor: Colors.yellow,
     centerTitle: true,
     elevation: 0.5,
